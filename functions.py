@@ -32,3 +32,5 @@ def output_formatting(input_dict):
     # makes the output of append_monthly_dict() look neater
     for k in sorted(input_dict):
         print k, input_dict[k]
+
+output_formatting(append_monthly_dict(parser("sample_roster.txt"),month_generator(),"employee id"))
