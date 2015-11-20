@@ -1,4 +1,4 @@
-# this files parses user input(= at this just the .txt file) and outputs a DOs
+# this files parses user input(= at this just the .txt file) and outputs employee DOs
 
 import re
 
