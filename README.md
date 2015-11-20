@@ -8,6 +8,6 @@ Current state:
 
 functions.py (goal: a working parser):
 * program stucture and data flow 
- 1) a dictionary is created wherein keys represent all dates in a month
- 2) parser() returns a list of dates when this particular employee has off days
- 3) all dictionary value the key of which matches dates from that list are appended with employee id
+ * a dictionary is created wherein keys represent all dates in a month
+ * parser() returns a list of dates when this particular employee has off days
+ * all dictionary value the key of which matches dates from that list are appended with employee id
