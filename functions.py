@@ -1,3 +1,5 @@
+# this files parses user input(= at this just the .txt file) and outputs a DOs
+
 import re
 
 def month_generator():
